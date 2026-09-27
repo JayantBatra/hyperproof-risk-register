@@ -2,7 +2,7 @@
 
 An enterprise-grade, audit-ready **Risk Register** application built for the **Hyperproof Risk Management** team. Enables compliance and security teams to track organizational risks, compute raw inherent exposures, apply defense-in-depth mitigating controls, dynamically score residual risk, and maintain compliance integrity.
 
-> **GitHub Repository:** [https://github.com/jayantbatra/hyperproof-risk-register](https://github.com/jayantbatra/hyperproof-risk-register)  
+> **GitHub Repository:** [https://github.com/JayantBatra/hyperproof-risk-register](https://github.com/JayantBatra/hyperproof-risk-register)  
 > *(If evaluating locally, see [REVIEWER_GUIDE.md](REVIEWER_GUIDE.md) for a curated evaluation walkthrough).*
 
 ---

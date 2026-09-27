@@ -6,7 +6,7 @@ Welcome! This guide is curated specifically for the **Hyperproof Engineering Hir
 
 ## 1. Quick Reference & Links
 
-- **Repository:** [https://github.com/jayantbatra/hyperproof-risk-register](https://github.com/jayantbatra/hyperproof-risk-register)
+- **Repository:** [https://github.com/JayantBatra/hyperproof-risk-register](https://github.com/JayantBatra/hyperproof-risk-register)
 - **Primary Documentation:** [`README.md`](README.md)
 - **Deep-Dive System Architecture:** [`SYSTEM_DESIGN_AND_ARCHITECTURE.md`](SYSTEM_DESIGN_AND_ARCHITECTURE.md)
 - **Local Application URL:** [http://localhost:3000](http://localhost:3000)
@@ -122,9 +122,9 @@ Follow these 4 quick steps in the browser to verify all assignment criteria:
 If you wish to host this in your own GitHub account:
 
 ```bash
-# 1. Create a new empty repository on GitHub (e.g. named 'hyperproof-risk-register')
+# 1. Create a new empty repository on GitHub named 'hyperproof-risk-register' at https://github.com/new
 # 2. In your terminal at the project root:
-git remote add origin https://github.com/<your-username>/hyperproof-risk-register.git
+git remote add origin https://github.com/JayantBatra/hyperproof-risk-register.git
 git branch -M main
 git push -u origin main
 ```
