@@ -1,0 +1,14 @@
+# Build and dependency artifacts
+backend/target/
+frontend/node_modules/
+frontend/dist/
+
+# IDE & Editor files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Logs & temp files
+*.log
+.system_generated/
